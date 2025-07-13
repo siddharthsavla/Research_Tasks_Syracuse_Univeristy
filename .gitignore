@@ -1,0 +1,7 @@
+# Ignore CSV datasets
+*.csv
+
+# Python cache and virtual environment files
+__pycache__/
+
+

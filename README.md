@@ -8,15 +8,15 @@ The goal is to analyze a sports dataset using Python and then validate LLM respo
 
 The project demonstrates:
 
-Descriptive statistics computation using Python (Pandas)
+✅ Descriptive statistics computation using Python (Pandas)
 
-Querying a Large Language Model (ChatGPT) with the same questions
+✅ Querying a Large Language Model (ChatGPT) with the same questions
 
-Comparison of LLM outputs vs Python calculations
+✅ Comparison of LLM outputs vs Python calculations
 
-Identifying hallucinations or reasoning errors by the LLM
+✅ Identifying hallucinations or reasoning errors by the LLM
 
-Making coaching recommendations based on data
+✅ Making coaching recommendations based on data
 
 📊 Dataset
 File: syracuse_mens_soccer_2024_full.xlsx
@@ -47,18 +47,23 @@ Python analysis result
 
 LLM (ChatGPT) answer
 
-Comparison note ✅/❌ to indicate agreement
+✅/❌ Comparison note to indicate agreement
 
 📂 Repository Contents
-
+bash
+Copy
+Edit
 Task_05_Descriptive_Stats/
 │
 ├── Task_05_LLM_Validation_Final.ipynb   # Main notebook with Python + LLM comparison
+├── syracuse_mens_soccer_2024_full.xlsx   # Dataset used for analysis
 ├── README.md                             # Project documentation (this file)
 ⚡ Key Findings
-LLM Accuracy: LLM correctly answered most factual questions, but small-sample anomalies (e.g., Michal Gradus) required human reasoning.
+LLM Accuracy:
+LLM correctly answered most factual questions, but small-sample anomalies (e.g., Michal Gradus) required human reasoning.
 
-Coaching Insight: Team has equal goals scored and conceded, with slightly worse shot conversion than opponents → focus on defense to convert draws into wins.
+Coaching Insight:
+Team scored and conceded equal goals, with slightly worse shot conversion than opponents → focus on defense to convert draws into wins.
 
 High-Impact Players:
 
@@ -68,14 +73,26 @@ Michael Acquah → Top assister and strong per‑minute impact
 
 ✅ How to Run
 Clone the repository:
-git clone https://github.com/<your-username>/Task_05_Descriptive_Stats.git
 
+bash
+Copy
+Edit
+git clone https://github.com/<your-username>/Task_05_Descriptive_Stats.git
 Open the notebook in Jupyter/VSCode:
+
+bash
+Copy
+Edit
 jupyter notebook Task_05_LLM_Validation_Final.ipynb
 Ensure you have pandas installed:
-pip install pandas 
 
+bash
+Copy
+Edit
+pip install pandas openpyxl
 ✨ Reflection
 LLMs can answer basic descriptive questions correctly when data is small and structured.
+
 Reasoning-intensive tasks (like coaching recommendations) still need Python validation to avoid hallucinations.
 
+This workflow demonstrates how LLM + Python complement each other for reliable data-driven insights.

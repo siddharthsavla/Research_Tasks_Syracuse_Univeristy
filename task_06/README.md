@@ -110,8 +110,8 @@ All **Gemini Veo 3 prompts** are included in the [Task_06_Deep_Fake_Prompts.txt]
 ---
 
 ## 📂 How to Run
-1. Review the **Task06_Gemini_Veo3_Prompts.txt** file for prompt references.
-2. Generate clips in **Gemini Veo 3 Fast** using the provided prompts.
+1. Review the **Task_06_Deep_Fake_Prompts.txt** file for prompt references.
+2. Generate clips in **Gemini Veo 3** using the provided prompts.
 3. Import clips into **CapCut**.
 4. Add transitions, captions and cover image.
 5. Export the **final merged interview video**.
@@ -123,5 +123,5 @@ This project highlights the potential of **AI-powered video generation** while s
 - Accurate dataset integration
 - Strong prompt engineering
 - Iterative refinements
-- Post-production editing
+
 

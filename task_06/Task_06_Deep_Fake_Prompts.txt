@@ -1,0 +1,43 @@
+
+==============================
+Task 06 — Gemini Veo 3 Prompts
+==============================
+
+Prompt 1 — Season Recap (Outdoor Stadium)
+----------------------------------------
+Using the uploaded Syracuse coach photo, create an 8-second ESPN-style outdoor interview video.
+
+Show a reporter holding a microphone while the coach speaks confidently to the camera.
+
+The coach says:
+"This season had its ups and downs — we scored and conceded the same number of goals, but we’re motivated to improve our performance next year."
+
+Scene: Outdoor stadium setting, Syracuse banners visible, natural lighting, soft crowd noise, dynamic camera angles, smooth transitions.
+
+----------------------------------------
+
+Prompt 2 — Defensive Strategy & Key Players (Press Conference)
+--------------------------------------------------------------
+Using the uploaded Syracuse coach photo, create an 8-second ESPN-style press conference interview video.
+
+Show a reporter seated next to the coach with microphones on the table.
+
+The coach says:
+"Our focus is on strengthening our defense and improving our shot conversion rate by 30%. With players like Gabe Threadgold and Michael Acquah stepping up, we’re confident in our strategy."
+
+Scene: Indoor press conference setup, Syracuse branding backdrop, studio lighting, background chatter, smooth transitions.
+
+----------------------------------------
+
+Prompt 3 — Motivational Closing (Locker Room)
+--------------------------------------------
+Using the uploaded Syracuse coach photo, create an 8-second ESPN-style locker room interview video.
+
+Show a reporter holding a microphone and the coach speaking confidently to the camera.
+
+The coach says:
+"With a stronger defense and our top players stepping up, Syracuse has a real shot at dominating next season."
+
+Scene: Locker room vibe, soft lighting, players celebrating slightly blurred in the background, smooth transitions.
+
+========================================

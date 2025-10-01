@@ -1,0 +1,7 @@
+==============================
+Raw LLM Output (Model: Gemini)
+==============================
+
+Based on the 2024 season data, Syracuse Men's Soccer shows a strong offensive capability led by several highly efficient players. Kristjan Fortier is a standout, converting an impressive 33.3% of his shots into goals. Daniel Burko also demonstrates excellent finishing with a 23.1% conversion rate. This indicates the team has players who can capitalize on scoring opportunities.
+
+An area for potential improvement could be the consistency of key contributors. For instance, Gabe Threadgold is a top scorer with 4 goals, but his overall shot efficiency (22.2%) is slightly lower than other top performers. A deeper look into his performance might reveal patterns that could be addressed through targeted coaching. Focusing on maintaining his high output while increasing his shot conversion rate could elevate the team's overall offensive threat next season.

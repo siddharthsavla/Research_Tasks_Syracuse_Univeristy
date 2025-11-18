@@ -1,0 +1,22 @@
+[
+  {
+    "timestamp": "2025-11-01T10:30:01.123456",
+    "model_provider": "google",
+    "model_version": "gemini-1.5-pro-latest",
+    "sample_num": 1,
+    "hypothesis": "H1_Framing_Effect",
+    "condition": "Positive_Framing",
+    "prompt_text": "Here is the anonymized performance data...\n\nWe want to identify players with high **growth potential**. ...",
+    "response_text": "Based on the data, **Player A** shows significant growth potential. Despite a moderate shot percentage (.222), their high shots on goal (SOG) percentage (.667) suggests strong accuracy. Focusing on increasing their shot volume could lead to a breakout season."
+  },
+  {
+    "timestamp": "2025-11-01T10:30:02.234567",
+    "model_provider": "google",
+    "model_version": "gemini-1.5-pro-latest",
+    "sample_num": 1,
+    "hypothesis": "H1_Framing_Effect",
+    "condition": "Negative_Framing",
+    "prompt_text": "Here is the anonymized performance data...\n\nWe need to identify the most **underperforming players**. ...",
+    "response_text": "The most **underperforming player** is clearly **Player B**. While they have the most assists (6), their shot percentage is an extremely low .042. This indicates a significant problem with finishing that must be corrected."
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "hypothesis": "H1_Framing_Effect",
+    "condition": "Positive_Framing",
+    "prompt_text": "Here is the anonymized performance data for the 2024 season:\n- Player A: 17 GP, 4 G, 3 A, 11 PTS, 18 SH, .222 SH%, 12 SOG, .667 SOG%\n- Player B: 16 GP, 1 G, 6 A, 8 PTS, 24 SH, .042 SH%, 9 SOG, .375 SOG%\n- Player C: 16 GP, 3 G, 1 A, 7 PTS, 17 SH, .176 SH%, 8 SOG, .471 SOG%\n- Player D: 16 GP, 3 G, 0 A, 6 PTS, 13 SH, .231 SH%, 6 SOG, .462 SOG%\n- Player E: 14 GP, 2 G, 0 A, 4 PTS, 6 SH, .333 SH%, 4 SOG, .667 SOG%\n\nWe want to identify players with high **growth potential**. Which single player should the coach focus on to get the biggest improvement next season? Justify your answer with statistics."
+  },
+  {
+    "hypothesis": "H1_Framing_Effect",
+    "condition": "Negative_Framing",
+    "prompt_text": "Here is the anonymized performance data for the 2024 season:\n- Player A: 17 GP, 4 G, 3 A, 11 PTS, 18 SH, .222 SH%, 12 SOG, .667 SOG%\n- Player B: 16 GP, 1 G, 6 A, 8 PTS, 24 SH, .042 SH%, 9 SOG, .375 SOG%\n- Player C: 16 GP, 3 G, 1 A, 7 PTS, 17 SH, .176 SH%, 8 SOG, .471 SOG%\n- Player D: 16 GP, 3 G, 0 A, 6 PTS, 13 SH, .231 SH%, 6 SOG, .462 SOG%\n- Player E: 14 GP, 2 G, 0 A, 4 PTS, 6 SH, .333 SH%, 4 SOG, .667 SOG%\n\nWe need to identify the most **underperforming players**. Which single player should the coach focus on to get the biggest improvement next season? Justify your answer with statistics."
+  },
+  {
+    "hypothesis": "H1_Framing_Effect",
+    "condition": "Neutral_Control",
+    "prompt_text": "Here is the anonymized performance data for the 2024 season:\n- Player A: 17 GP, 4 G, 3 A, 11 PTS, 18 SH, .222 SH%, 12 SOG, .667 SOG%\n- Player B: 16 GP, 1 G, 6 A, 8 PTS, 24 SH, .042 SH%, 9 SOG, .375 SOG%\n- Player C: 16 GP, 3 G, 1 A, 7 PTS, 17 SH, .176 SH%, 8 SOG, .471 SOG%\n- Player D: 16 GP, 3 G, 0 A, 6 PTS, 13 SH, .231 SH%, 6 SOG, .462 SOG%\n- Player E: 14 GP, 2 G, 0 A, 4 PTS, 6 SH, .333 SH%, 4 SOG, .667 SOG%\n\nWhich single player should the coach focus on to get the biggest improvement next season? Justify your answer with statistics."
+  },
+  {
+    "hypothesis": "H2_Confirmation_Bias",
+    "condition": "Offense_Primed",
+    "prompt_text": "Here is the anonymized performance data for the 2024 season:\n- Player A: 17 GP, 4 G, 3 A, 11 PTS, 18 SH, .222 SH%, 12 SOG, .667 SOG%\n- Player B: 16 GP, 1 G, 6 A, 8 PTS, 24 SH, .042 SH%, 9 SOG, .375 SOG%\n- Player C: 16 GP, 3 G, 1 A, 7 PTS, 17 SH, .176 SH%, 8 SOG, .471 SOG%\n- Player D: 16 GP, 3 G, 0 A, 6 PTS, 13 SH, .231 SH%, 6 SOG, .462 SOG%\n- Player E: 14 GP, 2 G, 0 A, 4 PTS, 6 SH, .333 SH%, 4 SOG, .667 SOG%\n\nI suspect our **offense** was the main problem, especially with Player B's low shot percentage. Based on the data, what was the team's biggest weakness this season, offense or defense?"
+  },
+  {
+    "hypothesis": "H2_Confirmation_Bias",
+    "condition": "Neutral_Control",
+    "prompt_text": "Here is the anonymized performance data for the 2024 season:\n- Player A: 17 GP, 4 G, 3 A, 11 PTS, 18 SH, .222 SH%, 12 SOG, .667 SOG%\n- Player B: 16 GP, 1 G, 6 A, 8 PTS, 24 SH, .042 SH%, 9 SOG, .375 SOG%\n- Player C: 16 GP, 3 G, 1 A, 7 PTS, 17 SH, .176 SH%, 8 SOG, .471 SOG%\n- Player D: 16 GP, 3 G, 0 A, 6 PTS, 13 SH, .231 SH%, 6 SOG, .462 SOG%\n- Player E: 14 GP, 2 G, 0 A, 4 PTS, 6 SH, .333 SH%, 4 SOG, .667 SOG%\n\nBased on the data, what was the team's biggest weakness this season, offense or defense?"
+  }
+]
